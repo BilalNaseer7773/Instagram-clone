@@ -1,28 +1,23 @@
-- Ruby version **2.3.3**
-- Rails version **5.1.2**
-- React version **15.6.1**
+# Instagram Clone
 
-## Installation
+## This is one of my first project created using Ruby and Rails to gain hands on experience.
 
-### Install Dependencies
-- `bundle install`
-- `yarn install`
+This project is an Instagram clone built using Ruby on Rails. It replicates the core functionalities of Instagram, allowing users to sign up, log in, post photos, follow other users, like posts, and comment on them. The aim of this project is to demonstrate the capabilities of Ruby on Rails in creating a fully functional, feature-rich web application.
 
-### Setup ENV vars
-- copy _config/application.yml.example_ to _config/application.yml_ and fill the value
+## Features
 
-### Database
-- `rake db:create`
-- `rake db:migrate`
+User authentication (sign up, log in, log out)
+Profile creation and editing
+Photo uploading and viewing
+Following and unfollowing users
+Liking and commenting on posts
+Feed showing posts from followed users
+Technologies Used
 
-## Run Application
-
-### Development
-- `rails s`
-- `./bin/webpack-dev-server --hot`
-- open in browser `localhost:3000`
-
-### Production
-- `rake assets:precompile RAILS_ENV=production` will automatically run yarn and webpack compile
-- `rails s -e production`
-- open in browser `localhost:3000`
+## Ruby on Rails
+PostgreSQL (database)
+Devise (authentication)
+Active Storage (file uploading)
+Bootstrap (front-end framework)
+CarrierWave (image uploading)
+MiniMagick (image processing)
