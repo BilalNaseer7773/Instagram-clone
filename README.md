@@ -21,3 +21,8 @@ Active Storage (file uploading) <br>
 Bootstrap (front-end framework) <br>
 CarrierWave (image uploading) <br>
 MiniMagick (image processing) <br>
+<br>
+
+## Resources <br>
+https://github.com/dimasjt/Instaqram/tree/master <br>
+https://www.youtube.com/watch?v=DhxLOC-9kW0 <br>
