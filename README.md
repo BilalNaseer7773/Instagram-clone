@@ -6,18 +6,18 @@ This project is an Instagram clone built using Ruby on Rails. It replicates the 
 
 ## Features
 
-User authentication (sign up, log in, log out)
-Profile creation and editing
-Photo uploading and viewing
-Following and unfollowing users
-Liking and commenting on posts
-Feed showing posts from followed users
-Technologies Used
-
-## Ruby on Rails
-PostgreSQL (database)
-Devise (authentication)
-Active Storage (file uploading)
-Bootstrap (front-end framework)
-CarrierWave (image uploading)
-MiniMagick (image processing)
+User authentication (sign up, log in, log out) <br>
+Profile creation and editing <br>
+Photo uploading and viewing <br>
+Following and unfollowing users <br>
+Liking and commenting on posts <br>
+Feed showing posts from followed users <br>
+Technologies Used <br>
+<br>
+## Ruby on Rails <br>
+PostgreSQL (database) <br>
+Devise (authentication) <br>
+Active Storage (file uploading) <br>
+Bootstrap (front-end framework) <br>
+CarrierWave (image uploading) <br>
+MiniMagick (image processing) <br>
