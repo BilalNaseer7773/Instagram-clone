@@ -1,5 +1,6 @@
 # Instagram Clone
 
+
 ## This is one of my first project created using Ruby and Rails to gain hands on experience.
 
 This project is an Instagram clone built using Ruby on Rails. It replicates the core functionalities of Instagram, allowing users to sign up, log in, post photos, follow other users, like posts, and comment on them. The aim of this project is to demonstrate the capabilities of Ruby on Rails in creating a fully functional, feature-rich web application.
